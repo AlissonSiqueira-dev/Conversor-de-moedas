@@ -1,1 +1,1 @@
-Programa de conversão de moedas utilizando a linguagem C.
+C program for currency conversion 
